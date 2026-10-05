@@ -45,7 +45,7 @@ O projeto integra os conhecimentos do semestre abordando do design à infraestru
 ## 👥 Equipe
 
 | Nome | Função | GitHub |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | Gabriel da Fonseca Flauzino | Project Owner | [Gabriel](https://github.com/gabri05el) |
 | Hector Saiki Colombani de Faria | Dev Team | [Hector](https://github.com/saikihector) |
 | Igor Vinicius de Araujo Pece Dos Santos | Dev Team | [Igor](https://github.com/IgorVinicin) |
