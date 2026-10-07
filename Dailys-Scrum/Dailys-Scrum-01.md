@@ -14,7 +14,7 @@ A organização dos documentos seguirá o padrão:
 
 ```text
 documentos/
-└── Daily Scrum/
+└── Daily-Scrum/
     ├── README.md
     ├── 2026-09-28.md
     ├── 2026-09-29.md
